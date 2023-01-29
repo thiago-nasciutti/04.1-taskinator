@@ -9,7 +9,8 @@
  * [Technologies](#technologies)
  * [Support](#support)
  * [Author](#author)
-
+ * [Linkedin](#linkedin)
+ 
 ## Description
 
 Kanban Board App
